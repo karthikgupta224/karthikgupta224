@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World,%20I'm%20Karthik!&fontSize=50" alt="Hello World, I'm Karthik" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/yourusername"><img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
   &bull;
   <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
   &bull;
