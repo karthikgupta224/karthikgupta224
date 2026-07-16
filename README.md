@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World,%20I'm%20Riya!&fontSize=50" alt="Hello World, I'm Karthik" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World,%20I'm%20Karthik!&fontSize=50" alt="Hello World, I'm Karthik" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <br/>
 
-I'm currently a B.Tech student in my 3rd semester at **VIT Bhopal**. I maintain a strong academic focus, recently achieving a 92% exam score, and I serve as a core member of the videography team for my college's **Google Developer Groups On Campus (GDGC)**. 
+I'm currently a B.Tech student in my 3rd semester at **VIT Bhopal**. I maintain a strong academic focus, and I serve as a core member of the videography team for my college's **Google Developer Groups On Campus (GDGC)**. 
 
 My technical interests center on software development and machine learning. I work extensively with Python, C++, NumPy, and Matplotlib, and recently built and deployed a house price prediction model to a public repository. I'm always eager to upskill, having participated in the "GIT-SET-GO" GitHub training session and the National Financial Literacy Quiz. 
 
