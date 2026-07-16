@@ -1,16 +1,25 @@
-Hi, I'm Karthik 👋
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)](https://github.com/YOUR_USERNAME) • [Blog](#) • [LinkedIn](#) • [ml-foundations-in-public](#) • [Building AI From Scratch (series)](#)
 
-Blog • LinkedIn • ml-foundations-in-public
+---
 
-I'm a 2nd-year AI/ML engineering student at VIT, currently teaching myself machine learning by rebuilding it from the ground up — implementing algorithms like linear and logistic regression from scratch in Python/NumPy before I let myself touch a library that does it for me.
+Hey, I'm Karthik — a 2nd-year AI/ML engineering student at VIT, currently in the "learn it by rebuilding it from scratch" phase of my ML journey. I write and code in public because shipping something half-finished beats sitting on a polished idea that never ships.
 
-I write about what I'm learning in a series called "Building AI From Scratch," partly to stay honest about my own progress and partly because I think documenting the climb is more useful than hiding it until I've "arrived."
+This term's coursework has me in search algorithms, probability & statistics, and core ML theory, alongside a self-paced roadmap running from linear algebra through Andrew Ng's specializations. Outside class I document all of it — code, mistakes included — in a series called **Building AI From Scratch**.
 
-Right now my stack is C++, Python, NumPy, and Matplotlib, with HTML/CSS for the occasional front-end need. I'm working through search algorithms, probability and statistics, and core ML theory as part of my coursework, alongside a self-directed roadmap (Math for ML → Andrew Ng's ML Specialization → Deep Learning Specialization).
+Longer term I'm aiming for an AI/ML engineering role in Switzerland or Germany, and treating this GitHub as the paper trail for how I got there.
 
-My longer-term aim is an AI/ML engineering role in Switzerland or Germany — I'm giving myself about five to six years to get there, and using this GitHub as a running log of the work.
+### Skills & Endorsements
 
-If you're also early in ML and building in public, I'd like to compare notes.
+Worked with me, studied with me, or just want to be nice? Click a skill below to open an issue and endorse it.
 
+- [C++](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+C%2B%2B)
+- [Python](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+Python)
+- [NumPy](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+NumPy)
+- [Matplotlib](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+Matplotlib)
+- [HTML/CSS](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+HTML%2FCSS)
+- [Machine Learning](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+Machine+Learning)
+- [Endorse a new skill →](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+SKILL_HERE)
 
-ml/ai: ml-foundations-in-public · learning log: LinkedIn
+---
+
+*learning log: [ml-foundations-in-public](#) · writing: [Building AI From Scratch](#)*
