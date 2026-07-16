@@ -35,10 +35,12 @@ I am a B.Tech student currently in my **3rd semester** at **VIT Bhopal**, focuse
 ### 📊 Git Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikgupta24&show_icons=true&theme=tokyonight&count_private=true" alt="Karthik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgupta24&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikgupta24&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Karthik's Activity Graph" width="100%" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgupta24&theme=tokyonight&hide_border=true&background=1a1b26" alt="Karthik's Streak Stats" width="100%" />
+</p>
 
 ### 🤝 Skills & Endorsements
 
