@@ -32,26 +32,10 @@ I am a B.Tech student currently in my **3rd semester** at **VIT Bhopal**, focuse
 
 ---
 
-### 📊 Git Analytics & Milestones
+### 📈 Journey & Milestones
 
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=karthikgupta24&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Karthik's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikgupta24&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26" width="100%" alt="Karthik's Activity Graph" />
-</p>
-
----
-
-### 🤝 Skills & Endorsements
-
-*Click on a skill below to endorse it on my profile!*
-
-* [**Machine Learning Concepts**](https://github.com/karthikgupta24/karthikgupta24/issues/new?title=Endorse:+Machine+Learning+Concepts): 
-* [**Python Programming**](https://github.com/karthikgupta24/karthikgupta24/issues/new?title=Endorse:+Python+Programming): 
-* [**C++ Development**](https://github.com/karthikgupta24/karthikgupta24/issues/new?title=Endorse:+C%2B%2B+Development): 
-* [**Data Visualization (Matplotlib)**](https://github.com/karthikgupta24/karthikgupta24/issues/new?title=Endorse:+Data+Visualization): 
-* [**Mathematical Computing (NumPy)**](https://github.com/karthikgupta24/karthikgupta24/issues/new?title=Endorse:+NumPy): 
-
-💡 [**Endorse a custom skill!**](https://github.com/karthikgupta24/karthikgupta24/issues/new?title=Endorse:+Custom+Skill)
+```text
+VIT Bhopal [ B.Tech Core Computer Science ]
+ ├── Sem 1 & 2 : Foundation, Programming Logic & Git Fundamentals
+ ├── Sem 3     : Data Structures, C++, NumPy & Matplotlib
+ └── Upcoming  : Advanced Machine Learning Pipelines & AI Implementations 🚀
