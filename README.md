@@ -1,25 +1,45 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)](https://github.com/YOUR_USERNAME) • [Blog](#) • [LinkedIn](#) • [ml-foundations-in-public](#) • [Building AI From Scratch (series)](#)
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World,%20I'm%20Riya!&fontSize=50" alt="Hello World, I'm Riya!" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/yourusername"><img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  &bull;
+  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
+  &bull;
+  <a href="https://github.com/yourusername">Portfolio</a>
+</div>
+
+<br/>
+
+I'm currently a B.Tech student in my 3rd semester at **VIT Bhopal**. I maintain a strong academic focus, recently achieving a 92% exam score, and I serve as a core member of the videography team for my college's **Google Developer Groups On Campus (GDGC)**. 
+
+My technical interests center on software development and machine learning. I work extensively with Python, C++, NumPy, and Matplotlib, and recently built and deployed a house price prediction model to a public repository. I'm always eager to upskill, having participated in the "GIT-SET-GO" GitHub training session and the National Financial Literacy Quiz. 
+
+Beyond code, I have a deep passion for cinematic videography and high-quality video editing, and I am a massive BTS fan (especially V!).
+
+### 🚀 Tech Stack & Skills
+- **Languages:** Python, C++
+- **Libraries/Tools:** NumPy, Matplotlib, Git, GitHub
+- **Concepts:** Machine Learning Pipelines, Application Cloning, Prompt Engineering
 
 ---
 
-Hey, I'm Karthik — a 2nd-year AI/ML engineering student at VIT, currently in the "learn it by rebuilding it from scratch" phase of my ML journey. I write and code in public because shipping something half-finished beats sitting on a polished idea that never ships.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="Riya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-This term's coursework has me in search algorithms, probability & statistics, and core ML theory, alongside a self-paced roadmap running from linear algebra through Andrew Ng's specializations. Outside class I document all of it — code, mistakes included — in a series called **Building AI From Scratch**.
-
-Longer term I'm aiming for an AI/ML engineering role in Switzerland or Germany, and treating this GitHub as the paper trail for how I got there.
+---
 
 ### Skills & Endorsements
 
-Worked with me, studied with me, or just want to be nice? Click a skill below to open an issue and endorse it.
+*I would like to add you to my professional network on the GITHUB.*
 
-- [C++](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+C%2B%2B)
-- [Python](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+Python)
-- [NumPy](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+NumPy)
-- [Matplotlib](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+Matplotlib)
-- [HTML/CSS](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+HTML%2FCSS)
-- [Machine Learning](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+Machine+Learning)
-- [Endorse a new skill →](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Endorse:+SKILL_HERE)
+- [**Machine Learning**](https://github.com/yourusername/yourusername/issues/new?title=Endorse:+Machine+Learning): 
+- [**Python**](https://github.com/yourusername/yourusername/issues/new?title=Endorse:+Python):
+- [**C++**](https://github.com/yourusername/yourusername/issues/new?title=Endorse:+C++): 
+- [**NumPy & Matplotlib**](https://github.com/yourusername/yourusername/issues/new?title=Endorse:+NumPy+&+Matplotlib): 
+- [**Videography & Video Editing**](https://github.com/yourusername/yourusername/issues/new?title=Endorse:+Videography): 
 
----
-
-*learning log: [ml-foundations-in-public](#) · writing: [Building AI From Scratch](#)*
+[**Endorse new skill!**](https://github.com/yourusername/yourusername/issues/new?title=Endorse:+New+Skill)
